@@ -23,4 +23,5 @@ title: MathEdu VR
   * [DeformingKnot: 3次元空間内の結び目の描画や変形を行うソフトウェア](https://github.com/UTMS-VR/DeformingKnot)
 * [smallpt: Global Illumination in 99 lines of C++](https://www.kevinbeason.com/smallpt/)
   * [smallpt4d](https://github.com/shizuo-kaji/smallpt4d) この4次元版
+* [Construction with 4D Virtual HyperCube](http://wenbolan.com/hypercube.html)
 * [中村建斗さんのページ](https://soma-arc.net/) 
