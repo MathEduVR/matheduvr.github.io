@@ -11,7 +11,7 @@ title: MathEdu VR
 
 誰か整理してください…。簡単な解説の追加等も歓迎します。
 
-* [有名な古典曲面の博物館](https://github.com/MathEduVR/OculusMathematicsSurface)
+* [有名な古典曲面の博物館](https://github.com/MathEduVR/OculusMathematicsSurface) （Unity+Oculus）
 * [Polyvision: 4D Space Manipulation through Multiple Projections](https://www.youtube.com/watch?v=shU-oaABFJU) アブストラクトは[こちら](https://dl.acm.org/doi/10.1145/3355049.3360518).
 * [Pcx4D](https://github.com/romanesco/Pcx4D) Unityで4次元点群を表示するためのもの
 * [Evert](https://github.com/njt99/evert) 球面裏返し
