@@ -12,7 +12,7 @@ title: MathEdu VR
 VR以外にも、関係するものをとりあえず手当たり次第に並べています(順不同)。
 誰か整理してください…。簡単な解説の追加等も歓迎します。
 
-* [有名な古典曲面の博物館](https://github.com/MathEduVR/OculusMathematicsSurface)
+* [有名な古典曲面の博物館](https://github.com/MathEduVR/OculusMathematicsSurface) （Unity+Oculus）
 * [Polyvision: 4D Space Manipulation through Multiple Projections](https://www.youtube.com/watch?v=shU-oaABFJU) アブストラクトは[こちら](https://dl.acm.org/doi/10.1145/3355049.3360518).
 * [Pcx4D](https://github.com/romanesco/Pcx4D) Unityで4次元点群を表示するためのもの
 * [Evert](https://github.com/njt99/evert) 球面裏返し
@@ -25,4 +25,7 @@ VR以外にも、関係するものをとりあえず手当たり次第に並べ
   * [DeformingKnot: 3次元空間内の結び目の描画や変形を行うソフトウェア](https://github.com/UTMS-VR/DeformingKnot)
 * [smallpt: Global Illumination in 99 lines of C++](https://www.kevinbeason.com/smallpt/)
   * [smallpt4d](https://github.com/shizuo-kaji/smallpt4d) この4次元版
+* [Construction with 4D Virtual HyperCube](http://wenbolan.com/hypercube.html)
 * [中村建斗さんのページ](https://soma-arc.net/) 群作用から現れる2次元・3次元の色々なフラクタルの描画プログラムがあります。
+* [中村建斗さんのページ](https://soma-arc.net/) 
+>>>>>>> 2a47a7914fa49353ff18d4531f2b2f9564da6b0c
