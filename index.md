@@ -28,4 +28,4 @@ VR以外にも、関係するものをとりあえず手当たり次第に並べ
 * [Construction with 4D Virtual HyperCube](http://wenbolan.com/hypercube.html)
 * [中村建斗さんのページ](https://soma-arc.net/) 群作用から現れる2次元・3次元の色々なフラクタルの描画プログラムがあります。
 * [中村建斗さんのページ](https://soma-arc.net/) 
->>>>>>> 2a47a7914fa49353ff18d4531f2b2f9564da6b0c
+* [GeoGebra](https://www.geogebra.org/) 対応しているスマートフォンやタブレットでは、3Dのグラフや図形をARで表示することができます。([Android](https://www.geogebra.org/m/jhcywuqw) [iOS](https://www.geogebra.org/m/axuc6hkr))
